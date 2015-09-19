@@ -1,2 +1,2 @@
 # RC6-Block-Cipher
-RC6TM is a new block cipher submitted to NIST for consideration as the new Advanced Encryption Standard (AES).
+RC6TM is a new block cipher submitted to NIST for consideration as the new Advanced Encryption Standard (AES). This program implements the RC6-w/r/b, where w = 32, and r = 20 in C. The input of the program is the user key and either plaintext (for encryption) or ciphertext (for decryption). The output of your program will be the ciphertext (for decryption) or plaintext (for encryption).
